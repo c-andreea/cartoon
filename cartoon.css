@@ -1,0 +1,16 @@
+header {
+	background-color:#660033;
+	padding: 20px 20px 20px 20px;
+}
+h1{
+	font-size: 90px;
+	color: black;
+}
+header img {
+	border-radius: 100px;
+
+}
+/*<header>
+		<img src="imge/headimg.jpg">
+		<h1>Pokemon</h1>
+	</header>*/
