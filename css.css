@@ -8,6 +8,7 @@ header {
 	background-color:#660033;
 }
 h1{
+	text-align: center;
 	margin: 0px;
 	font-size: 120px;
 	color:white;
@@ -21,4 +22,8 @@ header img {
 .content{
      font-size: 30px;
      color: white; 
+}
+footer ul li{
+	color: white;
+	display: inline;
 }
